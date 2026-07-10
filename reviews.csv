@@ -1,0 +1,61 @@
+review_id,user_id,rating,review_text,review_date,product
+1,User001,1,Great product and easy to use,2025-01-02,Product B
+2,User002,2,Good value for money,2025-01-03,Product C
+3,User003,3,Average experience overall,2025-01-04,Product D
+4,User004,2,Excellent customer support,2025-01-05,Product E
+5,User005,5,Fast delivery and quality item,2025-01-06,Product A
+6,User006,4,User interface is intuitive,2025-01-07,Product B
+7,User007,3,Met my expectations,2025-01-08,Product C
+8,User008,3,Could be improved in some areas,2025-01-09,Product D
+9,User009,5,Highly recommend this service,2025-01-10,Product E
+10,User010,3,Works as advertised,2025-01-11,Product A
+11,User011,1,Great product and easy to use,2025-01-12,Product B
+12,User012,4,Good value for money,2025-01-13,Product C
+13,User013,5,Average experience overall,2025-01-14,Product D
+14,User014,5,Excellent customer support,2025-01-15,Product E
+15,User015,1,Fast delivery and quality item,2025-01-16,Product A
+16,User016,3,User interface is intuitive,2025-01-17,Product B
+17,User017,5,Met my expectations,2025-01-18,Product C
+18,User018,2,Could be improved in some areas,2025-01-19,Product D
+19,User019,2,Highly recommend this service,2025-01-20,Product E
+20,User020,4,Works as advertised,2025-01-21,Product A
+21,User021,2,Great product and easy to use,2025-01-22,Product B
+22,User022,1,Good value for money,2025-01-23,Product C
+23,User023,1,Average experience overall,2025-01-24,Product D
+24,User024,5,Excellent customer support,2025-01-25,Product E
+25,User025,2,Fast delivery and quality item,2025-01-26,Product A
+26,User026,4,User interface is intuitive,2025-01-27,Product B
+27,User027,5,Met my expectations,2025-01-28,Product C
+28,User028,1,Could be improved in some areas,2025-01-29,Product D
+29,User029,1,Highly recommend this service,2025-01-30,Product E
+30,User030,1,Works as advertised,2025-01-31,Product A
+31,User031,3,Great product and easy to use,2025-02-01,Product B
+32,User032,1,Good value for money,2025-02-02,Product C
+33,User033,2,Average experience overall,2025-02-03,Product D
+34,User034,3,Excellent customer support,2025-02-04,Product E
+35,User035,4,Fast delivery and quality item,2025-02-05,Product A
+36,User036,2,User interface is intuitive,2025-02-06,Product B
+37,User037,4,Met my expectations,2025-02-07,Product C
+38,User038,1,Could be improved in some areas,2025-02-08,Product D
+39,User039,4,Highly recommend this service,2025-02-09,Product E
+40,User040,1,Works as advertised,2025-02-10,Product A
+41,User041,1,Great product and easy to use,2025-02-11,Product B
+42,User042,5,Good value for money,2025-02-12,Product C
+43,User043,1,Average experience overall,2025-02-13,Product D
+44,User044,3,Excellent customer support,2025-02-14,Product E
+45,User045,3,Fast delivery and quality item,2025-02-15,Product A
+46,User046,3,User interface is intuitive,2025-02-16,Product B
+47,User047,1,Met my expectations,2025-02-17,Product C
+48,User048,1,Could be improved in some areas,2025-02-18,Product D
+49,User049,1,Highly recommend this service,2025-02-19,Product E
+50,User050,5,Works as advertised,2025-02-20,Product A
+51,User051,5,Great product and easy to use,2025-02-21,Product B
+52,User052,4,Good value for money,2025-02-22,Product C
+53,User053,2,Average experience overall,2025-02-23,Product D
+54,User054,4,Excellent customer support,2025-02-24,Product E
+55,User055,3,Fast delivery and quality item,2025-02-25,Product A
+56,User056,3,User interface is intuitive,2025-02-26,Product B
+57,User057,2,Met my expectations,2025-02-27,Product C
+58,User058,1,Could be improved in some areas,2025-02-28,Product D
+59,User059,5,Highly recommend this service,2025-03-01,Product E
+60,User060,3,Works as advertised,2025-03-02,Product A
